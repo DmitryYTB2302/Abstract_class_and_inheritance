@@ -9,7 +9,7 @@ namespace лабораторная_7_по_методичке
     abstract class perem 
     {
         public perem() { }
-		protected int v;
+	protected int v;
         public int valuePer
         {
             get { return v; }
